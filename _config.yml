@@ -5,6 +5,9 @@ markdown: CommonMarkGhPages
 commonmark:
   options: ["SMART", "FOOTNOTES", "VALIDATE_UTF8"]
   extensions: ["strikethrough", "autolink", "table"]
+sass:
+  style: compressed
+google_fonts: "Inter:400,500,600,700,800"
 exclude: [README.md]
 plugins:
   - jekyll-seo-tag
