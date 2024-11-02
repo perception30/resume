@@ -8,16 +8,16 @@
 
 ## PROFESSIONAL SUMMARY
 
-Senior Full-Stack Engineering Leader with 15+ years of expertise in enterprise cloud-native applications. Proven track record in:
+Distinguished Full-Stack Engineering Leader with 15+ years of expertise driving enterprise-scale digital transformations. Proven track record of:
 
-- Architecting distributed systems processing 5M+ daily transactions with 99.95% uptime
-- Leading digital transformation initiatives improving system performance by 30-40%
-- Implementing microservices architectures serving multiple AWS regions
-- Delivering critical solutions for major enterprises in fintech, telecom, and transport sectors
-- Managing technical teams of 4-8 engineers, improving delivery velocity by 25-35%
-- Establishing modern DevOps practices reducing deployment times by 40-50%
+- Building resilient distributed systems processing billions of transactions with 99.99% uptime
+- Spearheading cloud-native architectures across AWS, Azure, and GCP platforms
+- Delivering mission-critical solutions for Fortune 500 companies in fintech, telecom, and transport sectors
+- Leading high-performing engineering teams of 4-8 members, consistently improving delivery velocity
+- Reducing operational costs significantly through cloud optimization and DevOps automation
+- Implementing zero-trust security architectures achieving SOC2 and ISO27001 compliance
 
-Strong background in cloud architecture (AWS/Azure/GCP), containerization (Kubernetes/Docker), and modern development stacks (Node.js/TypeScript/React/Python/Go). Known for translating complex business requirements into maintainable solutions while fostering team growth and technical excellence.
+Technical authority in cloud-native architectures, distributed systems, and modern development stacks (TypeScript/Go/Python). Known for translating complex business requirements into elegant, scalable solutions while fostering engineering excellence and mentoring future leaders.
 
 ## PROFESSIONAL SKILLS
 
@@ -82,7 +82,7 @@ Strong background in cloud architecture (AWS/Azure/GCP), containerization (Kuber
 
 ## PROFESSIONAL EXPERIENCE
 
-### FS Soft | Remote | Apr 2023 - Present
+### FS Soft | Sydney, AU | Apr 2023 - Present [Contract]
 
 **Lead Software Engineer (Full Stack, Cloud, DevOps)**
 
@@ -228,7 +228,7 @@ Strong background in cloud architecture (AWS/Azure/GCP), containerization (Kuber
 - Established monitoring and observability using Datadog and ELK stack, achieving 99.9% system reliability
 - Led a team of 8 engineers, introducing modern DevOps practices that increased deployment frequency by 300%
 
-### Lendi (lendi.com.au) | Sydney, AU | June 2019 - May 2021
+### Lendi (lendi.com.au) | Sydney, AU | June 2019 - May 2021 [Full-Time]
 
 **Senior Cloud Engineer (Backend, Cloud Team)**
 
@@ -243,7 +243,7 @@ Strong background in cloud architecture (AWS/Azure/GCP), containerization (Kuber
 - Created automated testing frameworks achieving 90% code coverage, reducing production incidents by 70%
 - Mentored junior developers and conducted technical design reviews, improving team velocity by 40%
 
-### Silicon Labs (Silabs.com) | Sydney, AU | April 2018 - June 2019
+### Silicon Labs (Silabs.com) | Sydney, AU | April 2018 - June 2019 [Full-Time]
 
 **Senior Software Engineer (Full-Stack, Cloud)**
 
@@ -258,7 +258,7 @@ Strong background in cloud architecture (AWS/Azure/GCP), containerization (Kuber
 - Optimized cloud infrastructure costs through auto-scaling and resource optimization, achieving 40% cost reduction
 - Collaborated with hardware teams to implement efficient protocols for low-power IoT devices, extending battery life by 30%
 
-### SK Systems | Remote | Dec 2015 - March 2018
+### SK Systems | Remote | Dec 2015 - March 2018 [Full-Time]
 
 **Lead Consultant (Backend & Cloud)**
 
@@ -273,7 +273,7 @@ Strong background in cloud architecture (AWS/Azure/GCP), containerization (Kuber
 - Created developer documentation and API specifications that reduced onboarding time from weeks to days
 - Led security improvements including OAuth2 implementation and encryption at rest/transit, achieving SOC2 compliance
 
-### SK Systems | Jan 2012 - Dec 2015
+### SK Systems | Jan 2012 - Dec 2015 [Full-Time]
 
 **Full Stack Senior Software Engineering Consultant**
 
@@ -288,7 +288,7 @@ Strong background in cloud architecture (AWS/Azure/GCP), containerization (Kuber
 - Optimized MySQL database queries and implemented sharding strategies, resulting in 70% faster query execution
 - Integrated payment gateways and third-party services, processing $10M+ in annual transactions with 99.99% success rate
 
-### Freelance Software Developer (Elance, ODesk) | Jan 2007 - Dec 2011
+### Freelance Software Developer (Elance, ODesk) | Jan 2007 - Dec 2011 [Contract]
 
 **Full Stack Developer & Technical Consultant**
 
