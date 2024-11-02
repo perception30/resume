@@ -78,39 +78,57 @@ Strong background in cloud architecture (AWS/Azure/GCP), containerization (Kuber
 - **AI/ML:** TensorFlow, PyTorch, Scikit-learn, Hugging Face
 - **Blockchain:** Ethereum, Solidity, Web3.js, Smart Contracts
 - **Edge Computing:** CloudFlare Workers, AWS Lambda@Edge
-- **FinOps:** AWS Cost Explorer, Azure Cost Management, Kubecost
+- **FinOps:** AWS Cost Explorer, Azure Cost Management, Kubecost,
 
 ## PROFESSIONAL EXPERIENCE
 
-### Optus | Sydney, AU | Oct 2023 - Present [Contract]
+### FS Soft | Remote | Apr 2023 - Present
+
+**Lead Software Engineer (Full Stack, Cloud, DevOps)**
+
+- Leading development of cloud-native fintech solutions processing $100M+ monthly transactions:
+  - Architecting microservices using TypeScript/Node.js and Go with 99.99% uptime
+  - Implementing event-driven architecture using Kafka and AWS EventBridge
+  - Achieving sub-100ms latency for 95% of API requests through optimization
+  - Managing multi-region deployment on AWS EKS with GitOps workflow
+- Established modern DevOps practices:
+  - Reduced deployment time by 70% using GitHub Actions and ArgoCD
+  - Implemented Infrastructure as Code using Terraform and AWS CDK
+  - Achieved 99.9% system reliability through automated testing and monitoring
+  - Optimized cloud costs by 40% through resource utilization analysis
+- Enhanced system observability:
+  - Deployed comprehensive monitoring using Prometheus and Grafana
+  - Implemented distributed tracing with OpenTelemetry and Jaeger
+  - Reduced MTTR by 55% through automated alerting and runbooks
+- Leading technical initiatives:
+  - Managing team of 8 engineers across different time zones
+  - Establishing coding standards and architectural guidelines
+  - Mentoring junior developers and conducting technical reviews
+  - Improving team velocity by 35% through process optimization
+
+### Optus | Sydney, AU | Oct 2023 - April 2023 [Contract]
 
 **Lead / Senior Consultant (Full Stack, Cloud Engineering)**
 
-- Architected and led development of Digital Habits Tracking platform serving 5M+ users:
-
+- Architected and implemented Digital Habits Tracking platform serving 5M+ users:
   - Built event-driven microservices architecture using TypeScript and Node.js
   - Implemented real-time analytics using Apache Kafka and Elasticsearch
   - Achieved 99.95% uptime through multi-region deployment on AWS EKS
   - Reduced operational costs by 35% through resource optimization
   - Processing 50M+ daily events with sub-100ms latency
-
-- Led complete redesign of Optus Pause service using cloud-native architecture:
-
+- Engineered complete redesign of Optus Pause service:
   - Implemented micro-frontend architecture using React and Module Federation
   - Built scalable backend services using Go and TypeScript
   - Achieved 40% improvement in system scalability
   - Reduced deployment time from hours to minutes using GitOps
   - Improved API response times by 60% through caching and optimization
-
-- Enhanced system reliability and observability:
-
-  - Implemented distributed tracing using OpenTelemetry and Jaeger
-  - Set up comprehensive monitoring using Prometheus and Grafana
+- Implemented comprehensive monitoring and reliability improvements:
+  - Deployed distributed tracing using OpenTelemetry and Jaeger
+  - Set up monitoring infrastructure using Prometheus and Grafana
   - Reduced MTTR by 50% through automated alerting and runbooks
   - Achieved 99.9% system availability using circuit breakers and retry mechanisms
-
-- Improved development practices and team productivity:
-  - Led team of 6 engineers across multiple squads
+- Led and improved team development practices:
+  - Managed team of 6 engineers across multiple squads
   - Established trunk-based development workflow
   - Implemented automated testing achieving 90% code coverage
   - Reduced PR review time by 40% through automated checks
@@ -240,7 +258,7 @@ Strong background in cloud architecture (AWS/Azure/GCP), containerization (Kuber
 - Optimized cloud infrastructure costs through auto-scaling and resource optimization, achieving 40% cost reduction
 - Collaborated with hardware teams to implement efficient protocols for low-power IoT devices, extending battery life by 30%
 
-### SK Systems (FS Soft) | Remote | Dec 2015 - March 2018
+### SK Systems | Remote | Dec 2015 - March 2018
 
 **Lead Consultant (Backend & Cloud)**
 
@@ -255,7 +273,7 @@ Strong background in cloud architecture (AWS/Azure/GCP), containerization (Kuber
 - Created developer documentation and API specifications that reduced onboarding time from weeks to days
 - Led security improvements including OAuth2 implementation and encryption at rest/transit, achieving SOC2 compliance
 
-### SK Systems (FS Soft) | Jan 2012 - Dec 2015
+### SK Systems | Jan 2012 - Dec 2015
 
 **Full Stack Senior Software Engineering Consultant**
 
