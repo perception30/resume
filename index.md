@@ -86,12 +86,35 @@ Strong background in cloud architecture (AWS/Azure/GCP), containerization (Kuber
 
 **Lead / Senior Consultant (Full Stack, Cloud Engineering)**
 
-- Architected Digital Habits Tracking platform serving 500K+ users with 99.95% uptime
-- Led redesign of Optus Pause service using microservices architecture, achieving:
-  - 30% reduction in operational costs through resource optimization
-  - 40% improvement in system scalability
-  - 99.9% system availability
-  - 35% faster feature deployment
+- Architected and led development of Digital Habits Tracking platform serving 5M+ users:
+
+  - Built event-driven microservices architecture using TypeScript and Node.js
+  - Implemented real-time analytics using Apache Kafka and Elasticsearch
+  - Achieved 99.95% uptime through multi-region deployment on AWS EKS
+  - Reduced operational costs by 35% through resource optimization
+  - Processing 50M+ daily events with sub-100ms latency
+
+- Led complete redesign of Optus Pause service using cloud-native architecture:
+
+  - Implemented micro-frontend architecture using React and Module Federation
+  - Built scalable backend services using Go and TypeScript
+  - Achieved 40% improvement in system scalability
+  - Reduced deployment time from hours to minutes using GitOps
+  - Improved API response times by 60% through caching and optimization
+
+- Enhanced system reliability and observability:
+
+  - Implemented distributed tracing using OpenTelemetry and Jaeger
+  - Set up comprehensive monitoring using Prometheus and Grafana
+  - Reduced MTTR by 50% through automated alerting and runbooks
+  - Achieved 99.9% system availability using circuit breakers and retry mechanisms
+
+- Improved development practices and team productivity:
+  - Led team of 6 engineers across multiple squads
+  - Established trunk-based development workflow
+  - Implemented automated testing achieving 90% code coverage
+  - Reduced PR review time by 40% through automated checks
+  - Achieved 35% faster feature deployment through CI/CD optimization
 
 ### Transport for NSW | Sydney, AU | Apr 2023 - Oct 2023 [Contract]
 
