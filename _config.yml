@@ -1,7 +1,11 @@
 title: Khaled Bin A Quadir
 description: Senior Full-Stack Engineering Leader
 theme: jekyll-theme-cayman
-markdown: kramdown
+markdown: CommonMarkGhPages
+commonmark:
+  options: ["SMART", "FOOTNOTES", "VALIDATE_UTF8"]
+  extensions: ["strikethrough", "autolink", "table"]
 exclude: [README.md]
 plugins:
   - jekyll-seo-tag
+  - jekyll-commonmark-ghpages
